@@ -8,6 +8,8 @@ In this repository you can find supplementary material related to this hands-on 
 ## Online Circuit Design Software
 You can prepare for the lab session without any electronic components and equipment using [Tinkercad](https://www.tinkercad.com/circuits), a free online tool provided by [Autodesk](https://www.autodesk.com/). You can create and simulate basic circuits, making measurements with the virtual multimeter.
 
+[Check out this example](https://www.tinkercad.com/things/2nxMoS8u7Zj-copy-of-lab2-not/editel?tenant=circuits?sharecode=fQDNPCRLdsfmbmRB4XNHljJGESkk2KYz8k3_-yrK1gI=) from Tutorial 1, that simulates the circuit with a single led and a dip switch.
+
 ## Links
 * [Resistor color code tool](https://www.allaboutcircuits.com/tools/resistor-color-code-calculator/)
 * [IV curve (current versus voltage curve) for various color leds](http://lednique.com/current-voltage-relationships/iv-curves/)   
