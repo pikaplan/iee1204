@@ -13,3 +13,4 @@ You can prepare for the lab session without any electronic components and equipm
 ## Links
 * [Resistor color code tool](https://www.allaboutcircuits.com/tools/resistor-color-code-calculator/)
 * [IV curve (current versus voltage curve) for various color leds](http://lednique.com/current-voltage-relationships/iv-curves/)   
+* [How to read schematics](https://learn.sparkfun.com/tutorials/how-to-read-a-schematic/all)
